@@ -1,0 +1,54 @@
+﻿body {
+	font-size: 11pt;
+	margin: 0px;
+	padding: 0px;
+	background-image: url(bg.png);
+	color: black;
+	font-family: Verdana;
+}
+
+p{
+	
+}
+
+hr {
+	width: 60%;
+}
+
+h1, h2 {
+	color: #347235;
+}
+
+h2 {
+	font-size: 17px;
+}
+
+#tartalom {
+	margin: 0 auto 0 auto;
+	text-align: left;
+	width: 850px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: white;
+}
+
+#nev{
+	font-size: 16px;
+	font-style: italic;
+
+}
+
+.kep {
+	
+	margin-left: 5px;
+}
+
+a:link {
+	color: #008080;
+}
+
+#kep {
+	float: right;
+	border: black 1px solid;
+	margin-left: 5px;
+}
